@@ -12,7 +12,6 @@ Fourth tab, Query/Suggestions.
 
 * Quick summary
 * Version
-* Github Page: https://github.com/S530742/A02Chandaluri
 
 ### Contribution guidelines ###
 
@@ -28,3 +27,5 @@ Fourth tab, Query/Suggestions.
 ### Java Script code ###
 
 * Created java script code for gpa calculator.
+
+![CalculateGPA](https://github.com/chvnaveenkumar/GPACalculator-JavaScript/blob/master/Calculate.JPG)

@@ -1,5 +1,3 @@
-WEBAPPA02 Assignment
-
 This Website contains about university and student details.
 
 Four tabs are visible in the nav bar.
